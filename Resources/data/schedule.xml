@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<schedule>
+	<version>1.0</version>
+	<session>
+		<sessionTitle_en>Session 1: Exploring the Past</sessionTitle_en>
+		<sessionTitle_mn>Session 1: Exploring the Past</sessionTitle_mn>		
+	</session>
+	<session>
+		<sessionTitle_en>Session 2: Honoring Tradition</sessionTitle_en>
+		<sessionTitle_mn>Session 2: Honoring Tradition</sessionTitle_mn>		
+	</session>
+	<session>
+		<sessionTitle_en>Session 3: Empowering Change</sessionTitle_en>
+		<sessionTitle_mn>Session 3: Empowering Change</sessionTitle_mn>	
+	</session>
+	<session>
+		<sessionTitle_en>Session 4: Designing the Future</sessionTitle_en>
+		<sessionTitle_mn>Session 4: Designing the Future</sessionTitle_mn>	
+	</session>	
+</schedule>

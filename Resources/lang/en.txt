@@ -1,0 +1,69 @@
+[L10N]
+// The main tab bar
+tab_guide=Guide
+tab_speakers=Speakers
+tab_schedule=Schedule
+tab_videos=Videos
+tab_twitter=Twitter
+tab_settings=Settings
+
+// The Guide view
+guide_about_ted=About TED
+guide_about_tedx=About TEDx
+guide_about_tedxub=About TEDxUlaanbaatar
+guide_venue=The Venue
+guide_organizers=Organizers
+guide_sponsors=Sponsors
+guide_language=Language
+guide_updating=Looking for updates...
+guide_updating_error=Error updating.
+guide_updating_success=Update successful.
+guide_updating_noUpdates=No updates available.
+
+// Guide - About TED
+guide_about_ted_text=TED is a non-profit organization devoted to Ideas Worth Spreading. Started as a four-day conference in California 25 years ago, TED has grown to support those world-changing ideas with multiple initiatives.\n\nThe annual TED Conference invites the world's leading thinkers and doers to speak for 18 minutes. Their talks are then made available, free, at TED.com. TED speakers have included Bill Gates, Al Gore, Jane Goodall, Elizabeth Gilbert, Sir Richard Branson, Nandan Nilekani,Philippe Starck, Ngozi Okonjo-Iweala, Isabel Allende and UK Prime Minister Gordon Brown.\n\nThe annual TED Conference takes place in Long Beach, California, with simulcast in Palm Springs; TEDGlobal is held each year in Oxford, UK. TED's media initiatives include TED.com, where new TEDTalks are posted daily, and the Open Translation Project, which provides subtitles and interactive transcripts as well as the ability for any TEDTalk to be translated by volunteers worldwide.\n\nTED has established the annual TED Prize, where exceptional individuals with a wish to change the world are given the opportunity to put their wishes into action; TEDx, which offers individuals or groups a way to host local, self-organized events around the world, and the TEDFellows program, helping world-changing innovators from around the globe to become part of the TED community and, with its help, amplify the impact of their remarkable projects and activities.
+
+// Guide - About TEDx
+guide_about_tedx_text=In the spirit of ideas worth spreading, TED has created a program called TEDx.\n\nTEDx is a program of local, self-organized events that bring people together to share a TED-like experience. Our event is called TEDxUlaanbaatar, where x = independently organized TED event. At our TEDxUlaanbaatar event, TEDTalks video and live speakers will combine to spark deep discussion and connection in a small group.\n\nThe TED Conference provides general guidance for the TEDx program, but individual TEDx events, including ours, are self-organized.
+
+// Guide - About TEDxUlaanbaatar
+guide_about_tedxub_text=As the idea behind TED is sharing knowledge, at TEDxUlaanbaatar, our speakers aim to present inspirational stories about the past, present, and future of Mongolia.\n\nThey will speak on topics ranging from Mongolian history to the vast web of Mongolian peoples across the world, from intellectual puzzles to the eclectic fusion of modern Mongolian hip-hop with traditional instruments, from the children of Ulaanbaatar’s streets to the country’s aggressive economic future.\n\nWith our first TEDxUlaanbaatar event, we hope to debut Mongolia to the TED community through a new lens, focusing on Mongolia’s rich past and promising future. In a blend of both Mongolians and expatriates, our team of organizers, contributors, and speakers are all working towards Mongolia’s LEGACY: Honoring Tradition, Designing the Future.
+
+//
+// Organizers
+//
+
+// Organizers - M-O
+m-o_detail=Mend-Orshikh Amartaivan is president of The New Media Marketing Agency, a digital marketing, social community engagement, and creative development firm. Besides, he founded The New Media Venture Capital. The company makes venture investment to highly profitable, count costing and the most promising projects with the aim of developing information technology on the internet and provides business incubator and takes part in the project activities till the successful introduction to the market.
+
+// Organizers - Naraa
+naraa_detail=Naranmunkh is idea thinker, SEO & SM speacialist, dreamer, a member of generation Y. He also work as Head of the Product department  of The New Media Marketing Agency, a digital marketing, social community engagement, and creative development firm.
+
+// Organizers - Travis
+travis_detail=Travis Hellstrom is a Peace Corps Volunteer Leader currently serving a third year in Mongolia, working in both the Peace Corps Mongolia headquarters and the World Health Organization. He recently served for two years in the eastern steppe of Mongolia in Sukhbaatar Provincial Health Department as a Health Volunteer. You can learn more about Travis's service here. Travis also recently published the Unofficial Peace Corps Volunteer Handbook, the first book to offer advice to people applying and serving as Peace Corps Volunteers and also raise funds that go to Peace Corps projects worldwide.
+
+// Organizers - Nick
+nick_detail=Narantuguldur Saijrakh is the General Manager at Asia Pacific Securities, a Mongolian securities brokerage firm. He led the company to adapt a new corporate strategy and image, and introduce a number of complementing products and services. He is in charge of the day-to-day activities of the firm, as well as project managing for the parent company, Asia Pacific Investment Partners. Narantuguldur is a member of Junior Chamber International and Mongolian Repat Leaders Club and is actively involved in the clubs' events. Prior to joining Asia Pacific Securities, Narantuguldur worked for Frontier Securities as analyst and, during which, led the organizing team of an annual investment conference, which was attended by more than 500 industries' professionals. He has been actively initiating and putting together numerous of mid and large scale events and conferences throughout his college and professional career. He has been a fan of TEDTalks and has been passionate about "ideas worth spreading" for a long time now and therefore being a part of the organizing team of the very first TED event in Mongolia was a predictable life. Narantuguldur was involved with TEDxUlaanbaatar from the very beginning, i.e. application of the license, and is generally contributing to and coordinating every aspect of the organization.
+
+// Organizers - Chris
+chris_detail=Chris Thompson is from Minneapolis, Minnesota, USA. He has been working at the International School of Ulaanbaatar since 2005, teaching English, literature and Theory of Knowledge classes. He holds a position as the Diploma Program Coordinator at the school and thus facilitates the curriculum for the 11th and 12th grades. As a teacher and advisor to student committees in the school, Chris has extensive experience in initiating and organizing enriching events. He often uses TED talks in his classes to get his students to see knowledge at work in the world today that leads to lively discussions amongst students. Prior to his current job, Chris first came to Mongolia in 2003 with the Peace Corps. Working with the English teachers of Tov province, he organized seminars and workshops to share American teaching methods with Mongolian teachers. He sees TEDxUlaanbaatar as a great opportunity for Mongolia to share its ideas with the greater TED community. Chris hopes that TEDxUlaanbaatar will just be the first of many events, leading to a tradition of knowledge and culture sharing that will keep Mongolians and foreigners living in Mongolia learning, discussing, and contributing knowledge for years to come. Chris is involved in TEDxUlaanbaatar as the editor of the English text contents on the events media pages and other marketing materials, as well as a contributor.
+
+// Organizers - Tuguldur
+tuguldur_detail=Tuguldur Turbat is Vice President and Chief Marketing Officer at  The New Media Marketing Agency, a digital marketing, social community engagement, and creative development firm. Founder of a Mongolian marketing magazine.
+
+// Organizers - Uyanga
+uyanga_detail=Working a full-time job as a Sales and Marketing administrator, Uyanga juggles her life between the business world and the entertainment industry. A passionate self-employed dancer and singer, she has been a TED enthusiast since the very beginning. She is fascinated about everything on the web and believes that knowledge is the nutrient of the soul.
+
+// Organizers - Neal
+neal_detail=Neal Detert is Managing Director of SusDev Solutions, which he co-founded in order to meet the growing demand for an innovative, recognized and respected place to turn to for pro-poor sustainable development policy, strategy and business needs. Through SusDev, he works to find cutting-edge solutions to today's most pressing issues that are sustainable, pragmatic, actionable and profitable, delivering results to clients across Asia. Neal is an economist and green business entrepreneur with experience in both development and investment banking. His economic research has been profiled in the Wall Street Journal, the Financial Times, the New York Times and Forbes Magazine.  Most recently, Neal worked as a Senior Analyst for Silk Road Management, a Central Asia focused investment management firm, and as a Strategy Consultant for Eurasia Capital in Mongolia. He also worked as an economist and consultant with the Asian Development Bank at their Tokyo institute and is a certified microfinance trainer. Like the other members of the TEDxUlaanbaatar team, Neal is an avid TED supporter. He volunteered in the organization and implementation of TEDxTokyo 2010 and is excited about making TEDxUlaanbaatar a landmark event, both for Mongolia and TED.
+
+// Organizers - Batzorig
+batzorig_detail=Batzorig Regzen is the is Chief Designing Officer at  The New Media Marketing Agency, a digital marketing, social community engagement, and creative development firm. Founder of a Mongolian marketing magazine.
+
+// Organizers - Joe
+joe_detail=Joe Flasher is a freelance software developer from Boulder, Colorado currently living in Ulaanbaatar. He has been involved in several mobile application projects previously and is thrilled to bring that knowledge to the TEDxUlaanbaatar team. Coming from a town that has a vibrant startup community and a strong entrepreneurial spirit, Joe is excited to try and foster such an atmosphere in Ulaanbaatar. Joe has been a big fan of the TED series since its inception and is looking forward to help introduce not only TED to Mongolia but also, just as importantly, to show the world of TED what Mongolia has to offer.
+
+//
+// Venue
+//
+venue_about=NEEDED
