@@ -102,9 +102,9 @@ tabGroup.addEventListener('open',function()
 loadingWin = Ti.UI.createWindow({backgroundImage:"images/Program.png", navBarHidden:true});
 loadingWin.open({transition:Titanium.UI.iPhone.AnimationStyle.FLIP_FROM_RIGHT});
 var actInd = Titanium.UI.createActivityIndicator({
-    height:50,
+    height:30,
     width:210,
-    bottom:10,
+    bottom:1,
     color:'#404347',
     font:{fontFamily:'Helvetica Neue', fontSize:14,fontWeight:'bold'},
     message:_("guide_updating"),
