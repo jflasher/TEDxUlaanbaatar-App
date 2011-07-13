@@ -3,18 +3,18 @@
 	<version>1.0</version>
 	<session>
 		<sessionTitle_en>Session 1: Exploring the Past</sessionTitle_en>
-		<sessionTitle_mn>Session 1: Exploring the Past</sessionTitle_mn>		
+		<sessionTitle_mn>1-р хуралдаан: Өнгөрсөн түүхээ судлах нь</sessionTitle_mn>		
 	</session>
 	<session>
 		<sessionTitle_en>Session 2: Honoring Tradition</sessionTitle_en>
-		<sessionTitle_mn>Session 2: Honoring Tradition</sessionTitle_mn>		
+		<sessionTitle_mn>2-р хуралдаан: Уламжлалаа дээдлэх нь</sessionTitle_mn>		
 	</session>
 	<session>
 		<sessionTitle_en>Session 3: Empowering Change</sessionTitle_en>
-		<sessionTitle_mn>Session 3: Empowering Change</sessionTitle_mn>	
+		<sessionTitle_mn>3-р хуралдаан: Хөгжлийг дэмжих нь</sessionTitle_mn>	
 	</session>
 	<session>
 		<sessionTitle_en>Session 4: Designing the Future</sessionTitle_en>
-		<sessionTitle_mn>Session 4: Designing the Future</sessionTitle_mn>	
+		<sessionTitle_mn>4-р хуралдаан: Ирээдүйг бүтээх нь</sessionTitle_mn>	
 	</session>	
 </schedule>

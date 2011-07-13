@@ -17,6 +17,8 @@ var doc = Ti.XML.parseString(XMLText);
 var sponsorNodes = doc.getElementsByTagName("sponsor");
 var views = [];	// Holder for each sponsor view
 
+var yCenter = (Ti.UI.currentWindow.height - 64) * 0.5;
+
 for (var i = 0; i < sponsorNodes.length; i++) {
 	// Main view
 	var view = Titanium.UI.createView({backgroundImage:'../images/background.png'});
@@ -24,8 +26,9 @@ for (var i = 0; i < sponsorNodes.length; i++) {
 	// Image
 	var image = Ti.UI.createImageView({image:Helper.getFileForURL(sponsorNodes.item(i).getElementsByTagName("thumbnail").item(0).text),
 									   height:100, width:320,
-									   top:0
+									   top:(yCenter - 50)
 	});
+		
 	view.add(image);
 	
 	// Label
@@ -33,16 +36,9 @@ for (var i = 0; i < sponsorNodes.length; i++) {
 											 minimumFontSize:16,
 											 size:{width:(Titanium.UI.currentWindow.width - 40), height:30},
 											 textAlign:"center",
-											 top:(image.height + 10),
+											 top:(yCenter - 50 + image.height + 10),
 											 text:sponsorNodes.item(i).getElementsByTagName("name").item(0).text});
 	view.add(nameLabel);
-	
-	// Text
-	var textLabel = Titanium.UI.createLabel({text:sponsorNodes.item(i).getElementsByTagName("text_" + langExt).item(0).text,
-									    top:(nameLabel.height + image.height + 20),
-									    height:"auto",
-									    width:(Titanium.UI.currentWindow.width - 20)});
-	view.add(textLabel);
 	
 	// Add the view to the array
 	views.push(view);
@@ -55,3 +51,9 @@ var scrollView = Titanium.UI.createScrollableView({
 });
 
 Ti.UI.currentWindow.add(scrollView);
+
+// create scrollView event listener
+scrollView.addEventListener('singletap', function(e)
+{
+	Ti.Platform.openURL(sponsorNodes.item(scrollView.currentPage).getElementsByTagName("link").item(0).text);
+});

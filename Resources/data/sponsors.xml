@@ -3,14 +3,12 @@
 	<version>1.0</version>
 	<sponsor>
 		<name>New Media Marketing Agency</name>
-		<text_en>Description text here.</text_en>
-		<text_mn>Description text here.</text_mn>
+		<link>http://newmediamarketingagency.com/</link>
 		<thumbnail>http://arssollertia.com/tedxub/nmma.png</thumbnail>
 	</sponsor>
 	<sponsor>
 		<name>SusDev Solutions</name>
-		<text_en>Description text here.</text_en>
-		<text_mn>Description text here.</text_mn>
+		<link>http://susdevsolutions.com/</link>
 		<thumbnail>http://arssollertia.com/tedxub/susDevSolutions.png</thumbnail>
 	</sponsor>
 </sponsors>

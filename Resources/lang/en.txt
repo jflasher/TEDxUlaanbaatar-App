@@ -62,8 +62,3 @@ batzorig_detail=Batzorig Regzen is the is Chief Designing Officer at  The New Me
 
 // Organizers - Joe
 joe_detail=Joe Flasher is a freelance software developer from Boulder, Colorado currently living in Ulaanbaatar. He has been involved in several mobile application projects previously and is thrilled to bring that knowledge to the TEDxUlaanbaatar team. Coming from a town that has a vibrant startup community and a strong entrepreneurial spirit, Joe is excited to try and foster such an atmosphere in Ulaanbaatar. Joe has been a big fan of the TED series since its inception and is looking forward to help introduce not only TED to Mongolia but also, just as importantly, to show the world of TED what Mongolia has to offer.
-
-//
-// Venue
-//
-venue_about=NEEDED
