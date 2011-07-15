@@ -8,12 +8,14 @@
 	<string>TEDxUB</string>
 	<key>CFBundleExecutable</key>
 	<string>${EXECUTABLE_NAME}</string>
-	<key>CFBundleIconFile</key>
-	<string>appicon.png</string>
 	<key>CFBundleIconFiles</key>
 	<array>
-		<string>appicon.png</string>
-		<string>appicon@2x.png</string>
+		<string>Icon.png</string>
+		<string>Icon@2x.png</string>
+		<string>Icon-72.png</string>
+		<string>Icon-Small.png</string>
+		<string>Icon-Small@2x.png</string>
+		<string>Icon-Small-50.png</string>
 	</array>
 	<key>CFBundleURLTypes</key>
 	<array>
@@ -27,7 +29,7 @@
 		</dict>
 	</array>
 	<key>CFBundleIdentifier</key>
-	<string>com.arssollertia.tedxub</string>
+	<string>com.arssollertia.tedxub.mobile</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>

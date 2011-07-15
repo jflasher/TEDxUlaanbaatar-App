@@ -7,14 +7,14 @@
         <target device="android">false</target>
         <target device="blackberry">false</target>
     </deployment-targets>
-    <id>com.arssollertia.tedxub</id>
+    <id>com.arssollertia.tedxub.mobile</id>
     <name>tedxub_universal</name>
     <version>1.0</version>
     <publisher>Ars Sollertia</publisher>
     <url>http://arssollertia.com</url>
     <description>TEDxUlaanbaatar</description>
-    <copyright>2011 by flasher</copyright>
-    <icon>appicon.png</icon>
+    <copyright>2011 by Ars Sollertia</copyright>
+    <icon>Icon.png</icon>
     <persistent-wifi>false</persistent-wifi>
     <prerendered-icon>true</prerendered-icon>
     <statusbar-style>opaque</statusbar-style>
