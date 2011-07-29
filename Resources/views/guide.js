@@ -88,13 +88,13 @@ tableview.addEventListener('click', function(e)
 	} else {
 		if (e.rowData.action == ACTION_ABOUT) {
 			if (e.rowData.detail == "aboutted") {
-				aboutImage = "../images/ted_logo.png";
+				// aboutImage = "../images/ted_logo.png";
 				aboutText = _("guide_about_ted_text");
 			} else if (e.rowData.detail == "abouttedx") {
-				aboutImage = "../images/tedx_logo.png";
+				// aboutImage = "../images/tedx_logo.png";
 				aboutText = _("guide_about_tedx_text");
 			} else if (e.rowData.detail == "abouttedxub") {
-				aboutImage = "../images/tedxulaanbaatar.png";
+				// aboutImage = "../images/tedxulaanbaatar.png";
 				aboutText = _("guide_about_tedxub_text");
 			}
 			

@@ -11,15 +11,15 @@ var scrollView = Titanium.UI.createScrollView({
 
 // Create a imageView for the image
 var width = (Ti.Platform.name == "android") ? 320 : Ti.UI.currentWindow.width;
-var imageView = Titanium.UI.createImageView({image:Ti.UI.currentWindow.aboutImage,
-										 width:width,
-										 height:53,
-										 top:10});
-scrollView.add(imageView);
+// var imageView = Titanium.UI.createImageView({image:Ti.UI.currentWindow.aboutImage,
+										 // width:width,
+										 // height:53,
+										 // top:10});
+// scrollView.add(imageView);
 
 // Add the text
 var label = Titanium.UI.createLabel({text:Ti.UI.currentWindow.aboutText,
-								    top:(imageView.height + 20),
+								    top:10,
 								    height:"auto",
 								    width:(width-20)});
 scrollView.add(label);
