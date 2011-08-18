@@ -1,6 +1,112 @@
 <?xml version="1.0"?>
 <speakers>
-	<version>1.0</version>
+	<version>1.2</version>
+	<speaker>
+		<name>Jo De Baerdemaeker</name>
+		<talkTitle_en></talkTitle_en>
+		<talkTitle_mn></talkTitle_mn>
+		<description_en>Dr. Jo De Baerdemaeker is a Belgian typeface designer, typographer and researcher. He holds a PhD in Typography and Graphic Communication from the University of Reading and an MA in Typeface Design from the University of Reading. His interests are designing, researching and writing about world script typefaces and multilingual typography.
+
+Lungta, his Latin-Tibetan OpenType font is in use by the University of Chicago Press and by the Oxford University Press, and he also designed the typefaces for Wiels (Centre of Contemporary Art in Brussels), Nottingham Contemporary (UK) and Visual Editions. He is the country delegate for Belgium and elected board member of the Association Typographic Internationale (ATypI).
+
+In 2010, he was awarded with an Early Career Fellowship from The Leverhulme Trust, which enabled him to start his postdoctoral research project on 'Mongolian script: from metal type to digital font' at the Department of Typography and Graphic Communication at the University of Reading. Ms Unurmaa Janchiv is main coordinator on the Mongolian side.
+
+The research aims to provide a comprehensive historical account of the evolution of the printed Mongolian character, and to offer practice-oriented guidance in designing and developing new digital fonts for the traditional Mongolian script. It adopts the methodology developed and tested in De Baerdemaeker's work on Tibetan typeforms, which uses an exhaustive historical survey to support critical contemporary analysis.
+
+The prime objectives are to develop a framework for describing the visual and technical quality of Mongolian typefaces; to determine the extent of printing houses using Mongolian typefaces and the connection with the individual punchcutters/type designers or typefoundries and companies of printing material and typesetting equipment creating and/or supplying these founts; to explore how Mongolian typefaces were developed and typeset; and to set up practical guidelines for creating contemporary digital fonts for the traditional Mongolian script.
+
+The project website (www.mongoliantype.com) will present findings and practical guidance supported by theoretical analysis, in conjunction with the database of Mongolian typefaces, publicly available to scholars of Mongolian language and culture, to historians of print, to professional (typeface) designers, software developers, librarians, linguists, academics, and to all those who have an interest in non-Latin typography and typeface design.</description_en>
+		<description_mn>Доктор Жо Де Баэрдэмаэкер нь хэвлэлийн үсгийн дизайнер, хэвлэлийн дардас хөгжүүлэгч, мөн судлаач Белгийн иргэн юм. Тэрээр Рийдинг Их Сургуульд (University of Reading) Хэвлэл ба Графикын Харилцаа Холбооны чиглэлээр бакалавр зэрэг, Хэвлэлийн Дардасын Дизайны чиглэлээр магистр зэрэг тус тус хамгаалжээ. Жо Де Баэрдэмаэкер дэлхийн хэвлэлийн дардас ба олон хэлний хэвлэлийн үсэгт дизайн гаргах, судалгаа хийх, бичих сонирхолтой.
+
+Доктор Жо Де Баэрдэмаэкерийн бүтээсэн Латин-Түвд хэлний нээлттэй фонт Lungta нь өдгөө Чикагогийн Хэвлэлийн Их Сургууль ба Оксфордын Хэвлэлийн Их Сургуульд ашиглагдаж байна. Мөн тэрээр Брусселс дахь Орчин Үеийн Урлагийн Төв болох Виелс (Wiels, Centre of Contemporary Art in Brussels), Их Британи Умард Ирландын Нэгдсэн Вант Улсын Ноттингхам Контемпорари (Nottingham Contemporary, UK), Вижуал Эдишнс (Visual Editions) зэрэгт зориулан хэвлэлийн үсгийн дизайн гаргасан юм.  Жо Де Баэрдэмаэкер бол Бельги улсын төлөөлөгч бөгөөд Олон Улсын Хэвлэлийн Графикын Холбоо (Association Typographic Internationale - ATypI)-ны удирдах зөвлөлийн сонгогдсон гишүүн юм.
+
+Жо Де Баэрдэмаэкер 2010 онд Леверхүлм Траст (The Leverhulme Trust)-аас Залуу Амжилт Тэтгэлэгээр шагнагдсан бөгөөд энэ нь түүнд Рийдинг Их Сургууль (University of Reading)-ийн Хэвлэлийн Дардас ба График  Харилцаа Холбооны Тэнхимд “Монгол бичиг: метал хэлбэрээс дижитал фонтруу шилжүүлэх” төсөл дээр докторын дараах судалгаагаа хийх боломжийг олгожээ.  
+
+Түүний судалгааны ажил нь хэвлэмэл Монгол бичгийн хувьслын бүрэн түүхийг харуулах, мөн уламжлалт монгол бичигт зориулсан шинэ дижитал фонт загварчлах ба хөгжүүлэх дадлагад чиглэсэн заавар гаргах зорилготой юм. Доктор Жо Де Баэрдэмаэкер энэхүү судалгаандаа орчин үеийн зайлшгүй чухал дүн шинжилгээг дэмжихэд өргөн хүрээний түүхийн судалгааг ашигладаг өөрийн бүтээсэн Түвд үсгийн хэлбэрийг хөгжүүлэх ба шалгахад хэрэглэсэн аргуудыг ашиглаж байгаа юм.
+
+Доктор Жо Де Баэрдэмаэкерийн судалгааны ажлын гол зорилго нь Монгол бичгийн хэвлэлийн дардасын дүрслэлийн ба техникийн чанарыг тодорхойлох ажлыг хөгжүүлэх, Монгол үсгийн хэв ашиглаж буй хэвлэлийн компаниудын хүрээг тодорхойлж, бие даасан хэвлэлийн дардас хөгжүүлэгчид ба хэвлэлийн материалын компаниуд, хэвлэлийн тоног төхөөрөмж нийлүүлэгч, үйлдвэрлэгч байгууллагуудыг хооронд нь холбох, Монгол үсгийн хэв хэрхэн хөгжүүлэгдсэнийг илрүүлэх, уламжлалт монгол бичигт зориулсан шинэ дижитал фонт хөгжүүлэх заавар гаргах зэрэг юм.
+
+Тус төслийн цахим хуудас (www.mongoliantype.com) дээр Монгол үсгийн хэвлэлийн дардасын өгөгдлийн сантай холбоотой онолын дүн шинжилгээгээр батлагдсан өнөөгийн олдворууд ба хэрэглэх зааврууд олон нийтэд нээлттэйгээр байршуулсан байна. Монгол хэл, соёлын эрдэмтнүүд, хэвлэлийн түүх судлаачид, хэвлэлийн мэргэжлийн дизайнерууд, програм хөгжүүлэгчид, номын санчид, хэл шинжээчид, эрдэмтэд болон бусад Латин бус үсэг ба үсгийн загварчлал сонирхдог хэн бүхэн дээрх цахим хуудсаар зочлон өгөгдөлд нэвтрэх боломжтой юм.</description_mn>
+		<thumbnail>http://arssollertia.com/tedxub/JoDeBaerdemaeker.jpg</thumbnail>
+	</speaker>	
+	<speaker>
+		<name>Oyuna Tserendorj</name>
+		<talkTitle_en></talkTitle_en>
+		<talkTitle_mn></talkTitle_mn>
+		<description_en>Oyuna Tserendorj is the founder and creative director of OYUNA, a leading brand of luxury designed cashmere based in London. Renown among the world’s top retailers and high-end interior designers, the brand offers innovative, luxury home and fashion collections of high-quality cashmere and other natural fibre products designed by Oyuna and made in Mongolia. Having chosen the route of “non-mainstream” fashion that is free from visual excess and unnecessary bling, OYUNA has a diverse range of loyal customers including Queen Rania of Jordan, designer Calvin Klein, Yoko Ono, respected Shinto Buddhists in Japan, designer Philippe Starck and Japanese actress Koyuki. Having trained in Budapest and traveled extensively around the world, Oyuna has built an international team of English, Italian, Latvian and Japanese staff, reflecting the brand’s true global outlook, while her heart is always in Mongolia.</description_en>
+		<description_mn>Oyuna Tserendorj is the founder and creative director of OYUNA, a leading brand of luxury designed cashmere based in London. Renown among the world’s top retailers and high-end interior designers, the brand offers innovative, luxury home and fashion collections of high-quality cashmere and other natural fibre products designed by Oyuna and made in Mongolia. Having chosen the route of “non-mainstream” fashion that is free from visual excess and unnecessary bling, OYUNA has a diverse range of loyal customers including Queen Rania of Jordan, designer Calvin Klein, Yoko Ono, respected Shinto Buddhists in Japan, designer Philippe Starck and Japanese actress Koyuki. Having trained in Budapest and traveled extensively around the world, Oyuna has built an international team of English, Italian, Latvian and Japanese staff, reflecting the brand’s true global outlook, while her heart is always in Mongolia.</description_mn>
+		<thumbnail>http://arssollertia.com/tedxub/Oyuna_Portrait.jpg</thumbnail>
+	</speaker>
+	<speaker>
+		<name>Oyun Sanjaasuren</name>
+		<talkTitle_en></talkTitle_en>
+		<talkTitle_mn></talkTitle_mn>
+		<description_en>Beginning as a geologist, Mrs. Oyun Sanjaasuren received her BA and M.Sc from Czechoslovakia and her Ph.D from Cambridge in England. She has worked on projects involving both Rio Tinto and the UNDP.
+
+Mrs. Oyun has been a Member of Parliament of Mongolia continuously from 1998 until the present.
+
+She was Minister of Foreign Affairs from 2007 to 2008 and has been a Young Global Leader of the World Economic Forum since 2003. She is the only female party leader in Mongolia and ranks among the top ten most popular politicians in the country. She entered politics in 1998 to carry on the plans of her brother, Zorig, for political and economic reform after his assassination.
+
+Mrs. Oyun currently serves as the Head of the Zorig Foundation. Founded in 1998 by Mrs. Oyun and other close friends of Zorig, the Zorig Foundation is a major Mongolian NGO dedicated to the advancement of democracy and good governance in Mongolia. She is fluent in English, Russian and Czech and has a black belt in Karate. Outside of politics, Mrs. Oyun is also the Head of the Down Syndrome Association of Mongolia. She is married with three children.</description_en>
+		<description_mn>Хатагтай Санжаасүрэнгийн Оюун анх геологич мэргэжлээр ажил хөдөлмөрийн гараагаа эхэлжээ. Тэрээр Чехсловак улсад бакалавр, магистрын зэрэг хамгаалсан бөгөөд Англи улсын Кэмбриджийн Их Сургуульд докторын зэрэг хамгаалсан юм. С.Оюун Рио Тинто ба НҮБ-ын Хөгжлийн Сангийн төслүүд дээр ажиллаж байсан туршлагатай нэгэн.
+
+С.Оюун 1998 оноос одоог хүртэл Монгол Улсын Их Хурлын гишүүнээр сонгогдон ажиллаж байна. Тэрээр 2007-2008 онд Гадаад Харилцааны Яамны сайдаар ажиллаж байсан бөгөөд 2003 оноос хойш Дэлхийн Эдийн Засгийн Форумд Залуу Удирдагчаар оролцож байгаа юм. С.Оюун бол Монголын цорын ганц эмэгтэй намын дарга юм. Мөн тэрээр Монгол улсын хамгийн алдартай 10 улс төрчдийн тоонд багтдаг. С.Оюун өөрийн ах С.Зориг агсны улс төр, эдийн засгийн шинэчлэлийн төлөвлөгөөг үргэлжлүүлэхээр 1998 онд улс төрийн үйл хэрэгт нэгдэн орсон юм.
+
+Хатагтай С.Оюун болон түүний ах С.Зориг агсны дотны нөхөд нэгдэн 1998 онд Монгол улсын ардчилал ба засаглалыг хөгжүүлэхэд чиглэсэн төрийн бус байгууллага болох Зориг санг байгуулсан бөгөөд одоогоор хатагтай С.Оюун тус сангийн тэргүүний албыг хашиж байна.
+
+С.Оюун улс төрийн үйл ажиллагаанд идэвхтэй оролцохоос гадна Монголын Дауны Холбооны тэргүүнээр ажилладаг. Тэрээр нөхөр, 3 хүүхдийн хамт амьдардаг. С.Оюун Англи, Орос, Чех хэлийг маш сайн эзэмшсэн. Мөн тэрээр каратэгийн хар бүстэй тамирчин юм.</description_mn>
+		<thumbnail>http://arssollertia.com/tedxub/Oyun.jpg</thumbnail>
+	</speaker>
+	<speaker>
+		<name>Boldsaikhan Badamjav</name>
+		<talkTitle_en></talkTitle_en>
+		<talkTitle_mn></talkTitle_mn>
+		<description_en>Mr.Boldsaikhan Badamjav graduated from Medical Institute in 1975 and Hindi Language Institute of New Delhi in 1990. He was awarded title of “Best Worker of Science” in 1998, “Best Worker of Medical Field” in 2002 and earned Professor of Mongolian University of Science and Technology in 2003. Boldsaikhan Badamjav has worked in scientific research sector for entire 33 years including scientist at Ethno Science Institution of The Science Academy during 1980-1985, scientist at Eastern Science Institute of Science Academy in 1985-1990, senior scientist, department director and project manager at Ethno Science Institution and Science, Technology and Manufacturing Corporation in 1990-2000. He has been working as Head of Traditional Medical Department of State Central Clinical Hospital and director of System Study Center of Mongolian University of Science and Technology since 2000.
+
+His book “Mongolian Traditional Medicine” was awarded “The Best Work of 1985-1990” from The Science Academy, and his works won plenty of awards such as “The Best Work of Mongolians”. Moreover, his work “Great Secret Invocation Ritual” won award from Tibetan Fund in London in 2002, and his book “Buddhism and Science” won first place award from scientific work conference of Mongolian University of Science and Technology in 2003. He was included in the golden book “Top People of 21st Century” which is an international biography study book for his extraordinary works.
+
+Boldsaikhan Badamjav participated in “Asian Health and Environment”, joint project of Eastern Asian countries to collect research work materials, and released 3 series of CD-ROM “Natural Resource of Asia”. Also he contributed to 3 series of book “Mongolian plant reference book with picture” in coordination with JICA Japan.
+
+Boldsaikhan Badamjav led software project “Otoch” of Ministry of Science and Education with academics of Mongolian University of Science and Technology in 1990. The project initiated blending of traditional medicine and modern expert system of science.
+
+Recently, Boldsaikhan Badamjav is working as project manager of Mongolian team to develop information technological system in coordination with Siberian scientists on project of Russian Science Fond under the goal of “Making dynamic diagnosis on the basis of Mongolian-Tibetan traditional medicine”.
+
+In these days, researches on opportunities to use the information for traditional usage based on modern techniques and technologies are becoming common following the increase of biotechnological information about natural resource due to the globalization. In connection with this phenomenon, Boldsaikhan Badamjav is doing research on traditional knowledge since it is a gateway for Mongolians to be recognized on global stage.
+
+Boldsaikhan Badamjav has elected as various international and social positions including Bio ethical analyst at UNESCO, Chairman of Bio ethical Association, Academic at Education and Science Academy, and Advisory Board of Mongolian branch of Nippon Foundation.</description_en>
+		<description_mn>Б. Болдсайхан нь 1975 онд АУДС, 1990 онд Шинэ-Делийн Хинди хэлний төв дээд сургууль төгссөн. 1998 онд Шинжлэх ухааны тэргүүний ажилтан цол, 2002 онд Эрүүлийг хамгаалахын тэргүүний ажилтан, 2003 онд ШУТИС-ийн профессор цол олгосон. Эрдэм шинжилгээний байгууллагад тасралтгүй 33 жил ажилласнаас 1980-1985 онд ЭМЯамны Ардын эмнэлгийн хүрээлэнд эрдэм шинжилгээний ажилтан‚ 1985-1990 онд ШУА-н Дорно дахин судлалын хүрээлэнд эрдэм шинжилгээний ажилтан‚ 1990-2000 онд Ардын эмнэлгийн хүрээлэн буюу Шинжлэх ухаан, технологи, үйлдвэрлэлийн корпорраци зэрэг газруудад эрдэм шинжилгээний ахлах ажилтан,  секторын эрхлэгч‚ төслийн удирдагчаар ажиллаж байсан. 2000 оноос УКТЭ-ийн УАТасгийн эрхлэгч, ШУТИС-ийн Систем судалгааны төвийн захиралаар одоог хүртэл ажиллаж байна.
+
+Б.Болдсайхан нь ШУАкадемаас 5 жил тутам шалгаруулдаг байсан шилдэг бүтээлийн шагналын 1985-1990 оныхыг “Монголын уламжлалт анагаах ухаан” номоороо авчээ. Мөн Монгол туургатны шилдэг бүтээлийн шагнал, 2002 онд “Их нууц тарнийн ёс” номоор Лондон дахь төвдийн фондын шагнал, 2003 онд “Буддын сургаал ба Шинжлэх ухаан” номоор ШУТИС-ийн эрдэм шинжилгээний бүтээлийн тэргүүн шагналыг авчээ. Бичсэн бүтээлүүдээрээ олон улсын намтар судлалын “XXI зууны онцлох хүн” Алтан номонд бичигджээ.
+
+Б.Болдсайхан нь “Азийн эрүүл мэнд, байгаль орчин” эрдэм шинжилгээний бүтээлийн мэдээлэл төвлөрүүлэх Зүүн өмнөд Азийн бүсийн орнуудын хамтарсан төсөлд оролцож “Азийн байгалийн баялаг” гэсэн гурван CD-ROM хийлцжээ.
+
+Японы JICA-ийн шугамаар “Монгол орны ашигт ургамлын зурагт лавлах” гурван боть ном хийхэд оролцсон.
+
+Тэрээр 1990 оны эхээр ТИС-ийн эрдэмтэн багш нартай хамтран Шинжлэх ухаан, боловсролын яамны “Оточ” гэсэн программ хангамжийн төслийг удирдан хийжээ. Энэ ажлаараа эртний анагаах ухааны уламжлалыг орчин үеийн шинжлэх ухааны эксперт системтэй холбох ажлыг анх удаа дэвшүүлэн тавьсан байна.
+
+Мөн Оросын ШУФондын төслөөр Сибирийн салбарын эрдэмттэй хамтран “Монгол Түвд эмнэлгийн уламжлалаар Теле-анагаахын динамик оношлогоо хийх нь” гэсэн чиглэлээр мэдээлэлийн технологийн системийг боловсруулах монголын талын төслийн удирдагчаар ажиллаж байна.
+
+Сүүлийн үед даяарчлалтай холбоотойгоор Биотехнологийн байгалийн нөөцийн тухай мэдээлэл, тэдгээрийн уламжлалт хэрэглээг орчин үеийн техник, технологийн тусламжтайгаар ашиглах боломжийг талаар эрэл хайгуул эрчимжиж байгаа билээ. Үүнтэй уялдуулан Монголчууд дэлхийн түвшинд хийж бүтээж, хүлээн зөвшөөрөгдөхүйц ажлын нэгэн гарц нь Уламжлалт мэдлэгт тулгуурласан шинэ бүтээл гэдэгт Б.Болдсайхан судалгааны ажлаа чиглүүлсээр иржээ.
+
+Болдсайхан нь ЮНЕСКО-ийн Био ёс зүйн шинжээч, Био ёс зүйн холбооны тэргүүн, Боловсролын шинжлэх ухааны академийн академич, Ниппон сангийн монгол дахь салбарын мэргэжлийн зөвлөлийн тэргүүн  гэсэн олон улсын болон олон нийтийн байгууллагын сонгуультай.</description_mn>
+		<thumbnail>http://arssollertia.com/tedxub/boldsaikhan.png</thumbnail>
+	</speaker>
+	<speaker>
+		<name>Tumen-Ulzii Zandraa</name>
+		<talkTitle_en></talkTitle_en>
+		<talkTitle_mn></talkTitle_mn>
+		<description_en>Mongolian State Honored Meritorious Person for Culture and great inventor, Mr. Tumen-Ulzii Zandraa is the founder of “International Intelligence Museum”, and currently he works as a president of “MoTuOv” LLC. The museum has participated in over 80 exhibitions in 52 countries and awarded Grand Prix and golden medal from international exhibition.Mr. Tumen-Ulzii Zandraa has been traveling over 20 countries around the world since 1994 promoting Mongolian intelligence games and collecting special games from other cultures. Now International Intelligence Museum has rich exhibitions covering intelligence games from more than 100 countries.
+
+Mr. Tumen-Ulzii Zandraa has begun creating spring games since 1995 when he was a little boy.He loves to change wastes into curious creatures. At his 20s, Tumen-Ulzii Zandraa invented a stove based on his idea of usingwhittlingwastefromwood processing factory at which he used to work as a Head of Financial Department. Moreover, Mr. Tumen-Ulzii Zandraa once created beautiful flowers by coloring bird feathers.He sees spring as one of the great prides of Mongolia and invented over 3000 registered spring games. His hobby is collecting chess and he created more than 150 fastidious chesses because Mr. Tumen-Ulzii Zandraa wants to prove that chess is originated from Mongolia. Besides talented inventor, Mr. Tumen-Ulzii Zandraais a gifted painter. He painted over 500 portraits, and wrote several comic stories and four books.
+
+Mr. Tumen-Ulzii Zandraa graduated from three universities as an economist. He worked as a fiscal and a Party Leader after his graduation from university in 1965. Starting from 1988, Mr. Tumen-Ulzii Zandraa carried out the museum following his interest and hobby. Mr. Tumen-Ulzii Zandraa has devoted 56 years of his life to spring games as he believes that games are whole science, art creature, educational tool and cultural history of a certain nation.</description_en>
+		<description_mn>Зандраагийн Түмэн-Өлзий нь Монгол улсын соёлын гавъяат зүтгэлтэн, зохион бүтээгч МоТүӨв ХХК-ны захирал бөгөөд  дэлхийд ганц байдаг “Оюун ухааны олон улсын музей”-н үүсгэн байгуулагч юм. Түүний музей нь дэлхийн 52 орны ная гаруй үзэсгэлэнд оролцсон бөгөөд  Олон улсын үзэсгэлэнгийн тэргүүн шагнал, алт хүрэл медалийг хүртэж байсан юм. 1994 оноос хойш дэлхийн 20 гаруй орноор аялж тоглоомоо сурталчилж, мөн явсан улс орныхоо тоглоомыг цуглуулсаар одоо тус музей нь дэлхийн зуу гаруй орны тоглоом бүхий арвин баялаг үзмэртэй.
+
+Тэрбээр анх 1955 оноос буюу 11 настайгаасаа эхлэн оньсон тоглоом сонирхон хийж эхэлсэн байна. 20 гаруй насандаа мод боловсруулах үйлдвэрт санхүүгийн хэлтсийн даргаар ажиллаж байхдаа үйлдвэрээс гарсан үрстийг ашиглах санаа төрж зуух зохион бүтээжээ. Мөн шувууны өдийг будганд оруулан хачин гоёмсог цэгцэг болгосон байна. Ингэж л хаягдлыг хаягдал биш болгон хувиргажээ.   З.Түмэн-Өлзий нь оньс гэдэг бол Монгол үндэсний бахархал гэж үздэг бөгөөд  оньсоор  3000 гаруй тоглоом хийж зохиогчийн эрхийг нь хамгаалж патент авсан ба  150 гаруй өөр өөр хийцтэй шатар зохион бүтээсэн байна. Учир нь шатар Монголоос гаралтай гэдгийг нотлохыг зорьдог бөгөөд орон орны шатар цуглуулдаг хоббитой юм.  Тэрбээр тун сайхан зурдаг бөгөөд  500 гаруй хөрөг, шог хошин өгүүллэг, нийтлэлийн дөрвөн ном туурвисан юм.
+
+ Түмэн-Өлзий нь эдийн засагч мэргэжилтэй бөгөөд энэ чиглэлээр гурвандээдсургуультөгссөн байна. 1965 ондсургуулиатөгсөөдсанхүүгийнажилтнааснамындаргахүртэлхийж явсан ба 1988 оноос өөрийн хоббиндоо хөтлөгдөн музейн ажлаа дагнах болсон байна. Тоглоом бол шинжлэх ухаан, соёл урлагийн бүтээл, хүмүүжлийн хэрэгсэлэл, тухайн улсын соёл иргэншилийн түүх байдаг гэдгээрээ бахархаж өөрийн амьдралынхаа 56 жилийг зориулж байна. </description_mn>
+		<thumbnail>http://arssollertia.com/tedxub/tumenulzii.png</thumbnail>
+	</speaker>	
 	<speaker>
 		<name>Neil D'souza</name>
 		<talkTitle_en></talkTitle_en>

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <sponsors>
-	<version>1.0</version>
+	<version>1.1</version>
 	<sponsor>
 		<name>New Media Marketing Agency</name>
 		<link>http://newmediamarketingagency.com/</link>
@@ -11,4 +11,24 @@
 		<link>http://susdevsolutions.com/</link>
 		<thumbnail>http://arssollertia.com/tedxub/susDevSolutions.png</thumbnail>
 	</sponsor>
+	<sponsor>
+		<name>Lingua Global</name>
+		<link>http://linguaglobal.org.uk/</link>
+		<thumbnail>http://arssollertia.com/tedxub/linguaglobal.png</thumbnail>
+	</sponsor>
+	<sponsor>
+		<name>Modern Ger</name>
+		<link>http://www.modernger.com/</link>
+		<thumbnail>http://arssollertia.com/tedxub/modernger.png</thumbnail>
+	</sponsor>
+	<sponsor>
+		<name>oyuna</name>
+		<link>http://www.oyuna.com/mongolia-landing</link>
+		<thumbnail>http://arssollertia.com/tedxub/oyuna_company.png</thumbnail>
+	</sponsor>
+	<sponsor>
+		<name>Citinet</name>
+		<link>http://citinet.mn/</link>
+		<thumbnail>http://arssollertia.com/tedxub/citinet.png</thumbnail>
+	</sponsor>	
 </sponsors>
