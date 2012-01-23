@@ -1,18 +1,8 @@
-Welcome to your Appcelerator Titanium Mobile Project
+This is the application that was distributed for the TEDxUlaanbaatar event that took place in 2011. 
 
-This is a blank project.  Start by editing your application's app.js to 
-make your first mobile project using Titanium.
+The app is based on Titanium platform which is a cross-platform HTML/CSS/JS solution. You can find more about Titanium by going to http://www.appcelerator.com. You will need Titanium in order to run this app.
 
+This was my first time using Titanium and this is my first project up on GitHub so please be kind. 
 
-
-----------------------------------
-Stuff our legal folk make us say:
-
-Appcelerator, Appcelerator Titanium and associated marks and logos are 
-trademarks of Appcelerator, Inc. 
-
-Titanium is Copyright (c) 2009-2010 by Appcelerator, Inc. All Rights Reserved.
-
-Titanium is licensed under the Apache Public License (Version 2). Please
-see the LICENSE file for the full license.
+Anyone is free to use this code for any related project!
 
